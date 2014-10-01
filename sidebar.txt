@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kkl:home|Door43 (kkl)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[kkl:obs|Open Bible Stories (kkl)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kkl|d43-kkl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kkl/archive/master.zip|d43-kkl.zip]]
+
+**Recent Changes**
+{{changes>ns = kkl}}
+
+**Latest Status**
+{{page>en:uwadmin:kkl:obs:status}}
+
